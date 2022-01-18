@@ -1,1 +1,0 @@
-Esta es mi segunda version del mi sitio. Todo el año pasado aprendí sobre ThreeJS y otras cosas, por lo que mi objetivo será terminar (al fin) mi sitio :D
